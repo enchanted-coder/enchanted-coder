@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+#stats
+![Github stats](https://github-readme-stats.vercel.app/api?username=enchanted-coder&theme=nord&show_icons=true&count_private=true)
+
+#card
+![Top Language Card](https://github-readme-stats.vercel.app/api/top-langs/?username=enchanted-coder)
+
