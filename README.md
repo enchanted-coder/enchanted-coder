@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=enchanted-coder&theme=gruvbox_light&show_icons=true&count_private=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=enchanted-coder&theme=transparent&show_icons=true&count_private=true)
 
 
-![Top Language Card](https://github-readme-stats.vercel.app/api/top-langs/?username=enchanted-coder&theme=gruvbox_light)
+![Top Language Card](https://github-readme-stats.vercel.app/api/top-langs/?username=enchanted-coder&theme=transparent&show_icons=true&count_private=true)
 
