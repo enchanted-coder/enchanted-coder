@@ -20,3 +20,5 @@ Here are some ideas to get you started:
 
 ![Top Language Card](https://github-readme-stats.vercel.app/api/top-langs/?username=enchanted-coder&theme=codeSTACKr&show_icons=true&count_private=true)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=enchanted-coder&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
